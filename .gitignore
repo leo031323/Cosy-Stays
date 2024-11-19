@@ -7,6 +7,9 @@ target/
 #ignorar la carpeta /webapp/assets/img/rents
 !**/src/main/webapp/assets/img/rents/
 
+### temp file ###
+.log
+
 ### STS ###
 .apt_generated
 .classpath
