@@ -32,7 +32,7 @@
               <a href="${pageContext.request.contextPath}/mainpage/" class="dropdown-item border-radius-md">
                 <span>Home</span>
               </a>
-              <a href="#" class="dropdown-item border-radius-md">¸
+              <a href="https://github.com/leo031323/Cosy-Stays/issues" class="dropdown-item border-radius-md">¸
                 <span>FAQ</span>
               </a>
               <a href="https://github.com/leo031323/" class="dropdown-item border-radius-md">
@@ -47,7 +47,7 @@
               <a href="#" class="dropdown-item border-radius-md">
                 <span>Home</span>
               </a>
-              <a href="#" class="dropdown-item border-radius-md">
+              <a href="https://github.com/leo031323/Cosy-Stays/issues" class="dropdown-item border-radius-md">
                 <span>FAQ</span>
               </a>
               <a href="https://github.com/leo031323/" class="dropdown-item border-radius-md">
